@@ -1,2 +1,2 @@
 # Projeto contador
- Primeiro projeto básico em vue
+ Primeiro projeto básico em Vue.
